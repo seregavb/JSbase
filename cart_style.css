@@ -1,0 +1,14 @@
+.cart {
+    background-color: blanchedalmond;
+}
+
+
+.cartItem {
+    color: rgb(58, 2, 36);
+    background-color: beige;
+}
+
+
+.cartPriceOut {
+    font-weight: 800;
+}
